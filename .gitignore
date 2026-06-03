@@ -1,0 +1,115 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+venv/
+.env
+__pycache__/
+audio/
+uploads/
+models/
+chroma_db/
+
+
+# Virtual Environment
+
+venv/
+.venv/
+env/
+
+# Environment Variables
+
+.env
+.env.local
+.env.production
+
+# Python Cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Distribution / Packaging
+
+build/
+dist/
+*.egg-info/
+
+# IDE Files
+
+.vscode/
+.idea/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+logs/
+
+# Jupyter Notebooks
+
+.ipynb_checkpoints/
+
+# Testing
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Uploaded Files
+
+uploads/
+temp/
+tmp/
+
+# Audio Files
+
+audio/
+recordings/
+
+# Video Files
+
+videos/
+
+# Generated PDFs
+
+pdfs/
+reports/
+
+# Whisper Models (if downloaded locally)
+
+models/
+checkpoints/
+
+# Vector Databases
+
+chroma_db/
+chroma/
+faiss_index/
+vector_store/
+
+# SQLite Databases
+
+*.db
+*.sqlite3
+
+# Node Modules (if frontend is inside backend)
+
+node_modules/
+
+# Secrets
+
+secrets.json
+credentials.json
+service-account.json
+
+# LangChain / LangGraph Artifacts
+
+.langchain/
+.langgraph/
+
+# Python Version
+
+.python-version
+

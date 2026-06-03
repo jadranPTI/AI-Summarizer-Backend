@@ -202,7 +202,7 @@ Return Response
 
 ## 👨‍💻 Author
 
-**Ahmar Amjad**
+**Ghulam Fareed**
 
 Generative AI Developer | AI Engineer
 
